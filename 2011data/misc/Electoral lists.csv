@@ -1,0 +1,35 @@
+;Electoral district ;;;Number of electoral lists;;;Ratio
+111;Tunis 1;;;81;;;5
+112;Tunis 2;;;85;;;5,2
+120;Ariana;;;95;;;5,8
+130;Ben Arous;;;73;;;4,5
+140;Manouba;;;75;;;4,6
+151;Nabeul 1;;;58;;;3,6
+152;Nabeul 2;;;55;;;3,4
+160;Zaghouan;;;52;;;3,2
+170;Bizerte;;;63;;;3,9
+210;Beja;;;46;;;2,8
+220;Jendouba;;;49;;;3
+230;Kef;;;48;;;3
+240;Siliana;;;48;;;3
+310;Sousse;;;78;;;4,8
+320;Monastir;;;68;;;4,2
+330;Mahdia;;;54;;;3,3
+341;Sfax 1;;;64;;;3,9
+342;Sfax 2;;;68;;;4,2
+410;Kairouan;;;76;;;4,7
+420;Kasserine;;;56;;;3,4
+430;Sidi Bouzid;;;65;;;4
+510;Gabes;;;48;;;3
+520;Medenine;;;46;;;2,8
+530;Tataouine;;;36;;;2,2
+610;Gafsa;;;68;;;4,2
+620;Tozeur;;;42;;;2,6
+530;Kebili;;;27;;;1,7
+;France 1;;;51;;;32,5
+;France 2;;;25;;;15,9
+;Italie;;;23;;;14,6
+;Allemagne;;;17;;;10,8
+;Amerique;;;21;;;13,4
+;Monde arabe;;;20;;;12,7
+;Total ;;;1781;;;100
